@@ -1,0 +1,17 @@
+{
+  "title": "Fastlite and sqlite-utils",
+  "source_url": "https://fastlite.answer.ai/llms.txt",
+  "generated_at": "2026-05-31 17:40:48",
+  "sections": [
+    "Docs",
+    "Optional"
+  ],
+  "heuristic_level": "balanced",
+  "warnings": [
+    "external link skipped: https://answerdotai.github.io/fastlite/index.html.md",
+    "external link skipped: https://answerdotai.github.io/apswutils/",
+    "external link skipped: https://sqlite-utils.datasette.io/en/stable/_sources/python-api.rst.txt"
+  ],
+  "link_count": 3,
+  "catalog_count": 0
+}

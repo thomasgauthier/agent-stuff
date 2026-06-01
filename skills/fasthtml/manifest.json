@@ -1,0 +1,21 @@
+{
+  "title": "FastHTML",
+  "source_url": "https://www.fastht.ml/docs/llms.txt",
+  "generated_at": "2026-05-31 17:31:41",
+  "sections": [
+    "Docs",
+    "API",
+    "Examples",
+    "Optional"
+  ],
+  "heuristic_level": "balanced",
+  "warnings": [
+    "external link skipped: https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/content/reference.md",
+    "external link skipped: https://gist.githubusercontent.com/jph00/e91192e9bdc1640f5421ce3c904f2efb/raw/61a2774912414029edaf1a55b506f0e283b93c46/starlette-quick.md",
+    "external link skipped: https://raw.githubusercontent.com/AnswerDotAI/MonsterUI/refs/heads/main/docs/apilist.txt",
+    "external link skipped: https://raw.githubusercontent.com/AnswerDotAI/fasthtml/main/examples/basic_ws.py",
+    "external link skipped: https://raw.githubusercontent.com/AnswerDotAI/fasthtml/main/examples/adv_app.py"
+  ],
+  "link_count": 7,
+  "catalog_count": 2
+}
